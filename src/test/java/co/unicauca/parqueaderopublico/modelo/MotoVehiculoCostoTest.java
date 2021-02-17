@@ -1,9 +1,5 @@
 package co.unicauca.parqueaderopublico.modelo;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -14,23 +10,7 @@ public class MotoVehiculoCostoTest {
     
     public MotoVehiculoCostoTest() {
     }
-/*    
-    @BeforeClass
-    public static void setUpClass() {
-    }
-    
-    @AfterClass
-    public static void tearDownClass() {
-    }
-    
-    @Before
-    public void setUp() {
-    }
-    
-    @After
-    public void tearDown() {
-    }
-*/
+
     /**
      * Test of calcularPago method, of class MotoVehiculoCosto.
      */
